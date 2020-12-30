@@ -6,5 +6,5 @@ second file line 5
 second file line 6
 second file line 7
 second file line 8
-second file line 9
-second file line 10
+second file line 9 updated by git_1
+second file line 10 updated by git_1
