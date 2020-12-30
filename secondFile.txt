@@ -8,3 +8,5 @@ second file line 7
 second file line 8
 second file line 9 updated by git_1
 second file line 10 updated by git_1
+second file line 9 updated by git_2
+second file line 10 updated by git_2
