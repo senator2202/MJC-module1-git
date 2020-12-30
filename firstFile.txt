@@ -2,8 +2,8 @@ first file line 1 updated by git_1
 first file line 2 updated by git_1
 first file line 3 updated by git_1
 first file line 4 updated by git_1
-first file line 5
-first file line 6
+first file line 5 updated by git_1 clone
+first file line 6 updated by git_1 clone
 first file line 7
 first file line 8
 first file line 9
