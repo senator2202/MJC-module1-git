@@ -4,7 +4,7 @@ first file line 3 updated by git_1
 first file line 4 updated by git_1
 first file line 5 updated by git_1 clone
 first file line 6 updated by git_1 clone
-first file line 7
-first file line 8
-first file line 9
+first file line 7 updated by git_1
+first file line 8 updated by git_1
+first file line 9 updated by git_1
 first file line 10
